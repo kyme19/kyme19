@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyme19
 - 👀 I’m interested in Artificial I
-- 🌱 I’m currently learning c# and c++
+- 🌱 I’m currently learning javaScript and PHP
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 
