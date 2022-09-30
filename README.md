@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElvisGmz&psig=AOvVaw1f3tS-MmUIDbDswuxByUJ4&ust=1664651430807000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCOuf6bvfoCFQAAAAAdAAAAABAD)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm kim</h1>
 <h3 align="center">A passionate frontend developer from the internet</h3>
-<img align="right" alt="Coding"  width="400" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">
+<img align="right" alt="Coding"  width="300" src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyme19&label=Profile%20views&color=0e75b6&style=flat" alt="kyme19" /> </p>
