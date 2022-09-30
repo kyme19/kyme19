@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm kim</h1>
 <h3 align="center">A passionate frontend developer from the internet</h3>
-<img align="right" alt="Coding"  width="250" src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
+<img align="right" alt="Coding"  width="230" src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyme19&label=Profile%20views&color=0e75b6&style=flat" alt="kyme19" /> </p>
