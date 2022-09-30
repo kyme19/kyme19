@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kyme19
-- 👀 I’m interested in Artificial I
-- 🌱 I’m currently learning javaScript and PHP
+- 👀 I’m interested in Artificial Intelligence, Full stack dev {still Learning]
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 
