@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm kim</h1>
-<h3 align="center">A passionate frontend developer from the internet</h3>
+<h3 align="center">A passionate developer from the internet</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyme19&label=Profile%20views&color=0e75b6&style=flat" alt="kyme19" /> </p>
