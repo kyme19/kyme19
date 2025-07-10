@@ -76,16 +76,12 @@ These days I’m vibing with:
 </details>
 
 
-
-
-
 ---
 
 <h2 align="left" id="kyme-tech">🚀 Favorite Tech Stack</h2>
 
-> Tools, languages, and ecosystems I love building with — grouped by purpose.
-
-
+<details>
+<summary>Tools, languages, and ecosystems I love building with — grouped by purpose.</summary>
 
 <h3>🌐 Web Development</h3>
 
@@ -183,11 +179,7 @@ These days I’m vibing with:
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" width="48" height="48" alt="MetaMask"/>
-      <br>MetaMask
-    </td>
-    <td align="center" width="96">
-      <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="48" height="48" alt="Hardhat"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
       <br>Hardhat
     </td>
   </tr>
@@ -214,10 +206,11 @@ These days I’m vibing with:
   </tr>
 </table>
 
+</details>
 
 ---
 
-### 📊 Here Are My Stats
+### 📊 Enough yapping Here Are My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyme19&theme=vue&hide_border=true&include_all_commits=true&count_private=false)" alt="kyme-github-stats" />
@@ -227,7 +220,8 @@ These days I’m vibing with:
 
 ---
 
-<h3 align="center">🎬 END CREDITS 🎬</h3>
+<details>
+<summary align="center"><h3 style="display: inline;">🎬 END CREDITS 🎬</h3></summary>
 
 <pre align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -264,3 +258,4 @@ DIRECTED BY
 <p align="center">
   <strong><em>Fin.</em></strong> 🎬
 </p>
+</details>
