@@ -224,38 +224,6 @@ These days I’m vibing with:
   <img src="https://nirzak-streak-stats.vercel.app/?user=kyme19&theme=vue&hide_border=true" alt="kyme-github-streak" />
 </p>
 
----
-
-
-<h3 align="center">🎬 CREDITS ROLL 🎬</h3>
-
-<div align="center" style="font-family: 'Courier New', monospace;">
-  
-  ━━━━━━━━━━━━━━━━━━━━━━━━
-
-  DIRECTED BY
-  YOU, THE VIEWER
-
-  STARRING
-  KYME'S PROJECTS & CODE
-
-  SPECIAL THANKS TO
-  YOUR DEDICATION FOR SCROLLING THIS FAR
-  
-  BONUS FEATURES
-  PINNED REPOSITORIES BELOW
-  
-  PRODUCED BY
-  COFFEE & LATE NIGHT CODING SESSIONS
-
-  ━━━━━━━━━━━━━━━━━━━━━━━━
-
-  <p style="font-size: 0.8em; opacity: 0.8;">
-    No developers were harmed in the making of this README
-    <br>
-    Click the pinned projects below to continue... 👇
-  </p>
-</div>
 
 ---
 
